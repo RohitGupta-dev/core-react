@@ -1,0 +1,4 @@
+﻿create web api
+
+
+use this cmd for db first approch => Scaffold-DbContext "Server=DESKTOP-LI3L725\SQLEXPRESS;TrustServerCertificate=True;Database=test1;user ID=DESKTOP-LI3L725\Ankit;Integrated Security=True;MultipleActiveResultSets=true;Encrypt=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
